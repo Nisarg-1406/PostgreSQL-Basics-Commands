@@ -1,4 +1,16 @@
--- We have created the database named training. 
+-- SQL is the computer language which is used for storing, manipulating and retriving the data. SQL stand for structured query language. 
+-- SQL works in the relational databases. Relational databses are the collection of the table and this tables are related in some ways. 
+ -- The record in the table is the row of the data and attribute is the column in the table. 
+-- SQL queries classification - 
+ --1) Data Definition Language - Define the structure of the data. We can CREATE, ALTER, DROP
+ --2) Data Manipulation Language - Manipulate the data contians within the objects. We can INSERT, UPDATE, DELETE
+ --3) Data Query Language - To retrive the data from table. Done by using , few eg : SELECT, ORDER BY, GROUP BY statement. 
+ --4) Data Control Language - Access control to users. To do use : GRANT, REVOKE
+ --5) Transactional Control Commands - To manage various transaction over the database. Eg: COMMIT, ROLLBACK
+ 
+-- PostgreSQL - PostgreSQL is an advanced object-relational database management system that supports an extended subset of the SQL standard, including transactions, foreign keys, subqueries, triggers, user-defined types and functions. 
+
+-- We have created the database named ABC. 
 
 -- CREATE TABLE - 
 -- Syntax - 
